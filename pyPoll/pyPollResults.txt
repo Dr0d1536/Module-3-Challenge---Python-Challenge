@@ -1,6 +1,0 @@
- 
-Election Results
-___________________
-Total Votes: 369712___________________
-defaultdict(<class 'int'>, {'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606})Charles Casper Stockham Percenatage of Votes 23.048%Diana DeGette Percenatage of Votes 73.812%Raymon Anthony Doane Percenatage of Votes 73.812%___________________
-Winner: Diana DeGette___________________
