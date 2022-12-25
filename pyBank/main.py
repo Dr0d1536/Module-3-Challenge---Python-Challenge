@@ -1,4 +1,4 @@
-#Python Challenge
+#Python Challenge - PyBank
 #Imports used to read CSV File
 import os
 import csv
@@ -62,8 +62,8 @@ with open(budgetData, encoding= 'UTF-8', newline="") as budget_file:
 with open("ProfitandLosses.txt", "w") as ProfitandLossesTxT:
     ProfitandLossesTxT.write(" \nFinancial Analysis\n___________________\n\n")
     ProfitandLossesTxT.write("Total Months: {} \n".format(MonthCounter))
-    ProfitandLossesTxT.write("Total Months: {} \n".format(Profit))
-    ProfitandLossesTxT.write("Total Months: {} \n".format(AverageChange))
+    ProfitandLossesTxT.write("Total: {} \n".format(Profit))
+    ProfitandLossesTxT.write("Average Change: {} \n".format(AverageChange))
     ProfitandLossesTxT.write("Greatest Increase in Profits: {} {} \n".format(IncreaseDate, Increase))
     ProfitandLossesTxT.write("Greatest Decrease in Profits: {} ({})".format(DecreaseDate, Decrease))
     ProfitandLossesTxT.close()
