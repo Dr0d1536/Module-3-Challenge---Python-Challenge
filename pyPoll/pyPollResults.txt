@@ -1,0 +1,12 @@
+ 
+Election Results
+___________________
+Total Votes: 369712
+___________________
+defaultdict(<class 'int'>, {'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606})
+Charles Casper Stockham Percentage of Votes 23.048%
+Diana DeGette Percentage of Votes 73.812%
+Raymon Anthony Doane Percentage of Votes 73.812%
+___________________
+Winner: Diana DeGette
+___________________
